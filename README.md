@@ -2,7 +2,7 @@
 A job portal web application
 
 ## Live Site
-https://career-code-3.web.app/
+https://career-code-481f6.web.app/
 
 ## Server
 https://career-code-beta.vercel.app/
